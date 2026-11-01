@@ -2,7 +2,7 @@ FROM ./models/minicpm5-2b-abliterated-Q4_K_M.gguf
 
 # min_p 0 is mandatory for MiniCPM5. llama.cpp defaults to 0.05, which sends this
 # model into repetition loops. Not a preference.
-PARAMETER num_ctx 8192
+PARAMETER num_ctx 16384
 PARAMETER min_p 0
 PARAMETER top_p 0.95
 
