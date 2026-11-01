@@ -1,0 +1,6 @@
+models/
+out/
+config.toml
+checkpoints/
+.kaggle/
+__pycache__/

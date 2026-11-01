@@ -1,0 +1,3 @@
+{"id": "e01", "prompt": "What is 17*23? Answer with the number only."}
+{"id": "e02", "prompt": "Write a Python function that takes a list of integers and returns the list with duplicates removed, preserving original order. Output only the code."}
+{"id": "e03", "prompt": "Explain what a KV cache is in transformer inference and why it matters for long contexts. Be concise."}
